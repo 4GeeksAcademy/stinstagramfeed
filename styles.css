@@ -3,6 +3,7 @@
     width:100%;
     display:flex;
     justify-content: center;
+
 }
 #feed{
     background:rgb(146, 146, 146);
@@ -12,5 +13,19 @@
 }
 #photo{
     background:white;
+    margin-bottom: 50px;   
+}
+img{
+    max-height: 550px;
+    max-width: 610px;
+}
+.fix{
     margin-top: 50px;
+}
+#flex{
+    display: flex;
+}
+#numbers{
+    margin-left: 140px;
+    color:grey;
 }
