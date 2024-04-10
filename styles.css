@@ -3,7 +3,6 @@
     width:100%;
     display:flex;
     justify-content: center;
-
 }
 #feed{
     background:rgb(146, 146, 146);
@@ -33,4 +32,19 @@ img{
 h2,
 p{
     margin-left: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
+i{
+    margin-top: 15px;
+    margin-left:5px;
+}
+.icon{
+    display:flex;
+}
+.socialnetwork{
+    display: flex;
+    justify-content: center;
+    background:rgb(146, 146, 146);
+    margin-top: -15px;
+}
+	
