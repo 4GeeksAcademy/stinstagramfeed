@@ -24,8 +24,13 @@ img{
 }
 #flex{
     display: flex;
+    justify-content:space-between;
 }
 #numbers{
-    margin-left: 140px;
+    margin-right: 10px;
     color:grey;
+}
+h2,
+p{
+    margin-left: 5px;
 }
