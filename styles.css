@@ -1,0 +1,16 @@
+#header{
+    background:white;
+    width:100%;
+    display:flex;
+    justify-content: center;
+}
+#feed{
+    background:rgb(146, 146, 146);
+    width:100%;
+    display:grid;
+    justify-content: center;
+}
+#photo{
+    background:white;
+    margin-top: 50px;
+}
